@@ -1,7 +1,9 @@
-# Blender_optical_Lens_Flare-VSE-addon
-This is a addon for integrating optical flare in Blender VSE.
-
-
-This is in Beta Stage. Minimum system requirement for memory (RAM) is 8 GB right now.
-
-OUR SECOND PHASE OF DEVELOPMENT HAS STARTED. IT WILL BE FINISHED between MAY and JUNE, 2017.
+# Blender_optical_Lens_Flare-VSE-addon v1.2 (UPDATED)
+A massive update has been done with the addon.
+Main updates:
+- Interface has been changed to optimize the workflow
+- 10 types of different flare behavior has been added.
+- It is now centorid enabled.
+- Works with multi iris and hoop setup
+- Realworld anamorphic behavor
+- 7 custom preset to start with 
