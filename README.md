@@ -3,9 +3,9 @@ A massive update has been done with the addon.
 Main updates:
 - Interface has been changed to optimize the workflow
 - 10 types of different flare behavior has been added.
-- It is now centorid enabled.
-- Works with multi iris and hoop setup
-- Realworld anamorphic behavor
+- It is now centroid enabled.
+- Works with multi-iris and hoop setup
+- Realworld anamorphic behavior
 - 7 custom preset to start with 
 
 
