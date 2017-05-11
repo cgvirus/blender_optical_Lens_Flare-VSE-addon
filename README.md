@@ -1,3 +1,6 @@
+# Minor Updates
+May 11, 2017 - An auto refresh sequence function is added in creating, cleaning and deleting link buttons. It has upgraded the speed performance.
+
 # Blender_optical_Lens_Flare-VSE-addon v1.2 (UPDATED)
 A massive update has been done with the addon.
 Main updates:
