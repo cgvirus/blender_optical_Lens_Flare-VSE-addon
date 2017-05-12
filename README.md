@@ -22,5 +22,5 @@ playlist:
 https://goo.gl/jZXg2H
 
 # Special Thanks to:
-transform vse aadon : from https://github.com/kgeogeo/VSE_Transform_Tools
-Lens flare elemnt pack by https://www.blendswap.com/blends/view/75869
+- transform vse aadon : from https://github.com/kgeogeo/VSE_Transform_Tools
+- Lens flare elemnt pack by https://www.blendswap.com/blends/view/75869
