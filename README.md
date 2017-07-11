@@ -1,3 +1,5 @@
+# Similar project has been done for Blender Compositor too
+Detail: https://github.com/cgvirus/Optical-Flare-Node-For-Blender-Compositor
 # Minor Updates
 May 11, 2017 - An auto refresh sequence function is added in creating, cleaning and deleting link buttons. It has upgraded the speed performance.
 
